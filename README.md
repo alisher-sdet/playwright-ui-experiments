@@ -63,10 +63,11 @@ Portfolio project demonstrating tester’s practical skills in:
 
 ---
 
-> Note: This is an earlier portfolio demo. My main production-style Playwright framework is here: https://github.com/alisher-sdet/playwright-swaglabs-pom
-> 
+📌 **Проект создан в учебных и демонстрационных целях для портфолио.**
+
 ---
 
-📌 **Проект создан в учебных и демонстрационных целях для портфолио.**
+> Note: This is an earlier portfolio demo. My main production-style Playwright framework is here: https://github.com/alisher-sdet/playwright-swaglabs-pom
+> 
 
 ## ⭐ QA Engineer: Alisher
