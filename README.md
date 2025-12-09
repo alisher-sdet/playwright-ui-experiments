@@ -6,6 +6,10 @@ _(Playwright + GitHub Actions)_
 
 ---
 
+> Note: This is an earlier portfolio demo. My main production-style Playwright framework is here: https://github.com/alisher-sdet/playwright-swaglabs-pom
+
+---
+
 ## 🇷🇺 Описание
 
 Портфолио-проект тестировщика, демонстрирующий:
