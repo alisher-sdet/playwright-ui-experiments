@@ -6,10 +6,6 @@ _(Playwright + GitHub Actions)_
 
 ---
 
-> Note: This is an earlier portfolio demo. My main production-style Playwright framework is here: https://github.com/alisher-sdet/playwright-swaglabs-pom
-
----
-
 ## 🇷🇺 Описание
 
 Портфолио-проект тестировщика, демонстрирующий:
@@ -65,6 +61,10 @@ Portfolio project demonstrating tester’s practical skills in:
 результаты выполнения отображаются в разделе **GitHub Actions**.  
 Проект также автоматически публикуется на **GitHub Pages**.
 
+---
+
+> Note: This is an earlier portfolio demo. My main production-style Playwright framework is here: https://github.com/alisher-sdet/playwright-swaglabs-pom
+> 
 ---
 
 📌 **Проект создан в учебных и демонстрационных целях для портфолио.**
